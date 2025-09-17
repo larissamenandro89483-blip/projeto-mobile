@@ -4,7 +4,11 @@
 <br>
 <br>
 
-<img src="https://github.com/larissamenandro89483-blip/projeto-mobile/blob/master/assets/web.png">
+<p align="left">
+<img src="https://github.com/larissamenandro89483-blip/projeto-mobile/blob/master/assets/web.png"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; <img src="https://github.com/larissamenandro89483-blip/projeto-mobile/blob/master/assets/celular.png" style="width:100px;height:150px;align="right"></p>
+
+
+
 
 
 
